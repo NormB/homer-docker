@@ -17,7 +17,7 @@ To start your own bundle or choice, just run the following command inside the se
 
 ```bash
 git clone https://github.com/sipcapture/homer-docker.git
-cd all-in-one
+cd homer-docker/all-in-one
 docker-compose up -d
 ```
 
